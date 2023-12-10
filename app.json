@@ -1,5 +1,5 @@
 {
-  "name": "𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐌𝐃-𝐯𝟐",
+  "name": "𝐵𝐿𝛩𝛩𝐷 𝑇𝛨𝛪𝑅𝑆𝑇𝑌 𝐶𝑅𝛯𝛯𝛲𝛯𝑅",
   "description": "Your WhatsApp assistant for smarter, automated interactions.",
   "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
   "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg&name=900x900",
@@ -10,12 +10,12 @@
        "Author": { 
        "description": "Author Name For Sticker",
             "required": true,
-            "value": "© Pika~Kun"
+            "value": "KRIXTOM"
        },
        "BotName": { 
        "description": "Bot Name For Sticker",
             "required": true,
-            "value": "QueenAnya Stickers"
+            "value": "𝚇𝙸𝙽𝚇𝙾"
        },
        "Email_Id": { 
        "description": "Mail Id",
@@ -34,7 +34,7 @@
        },
        "MongoDB": {
             "description": "Your MongoDB URL. If you don't have or dont how to get it just leave blank it will connect thorugh public Mongo Url",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "Owner_Number": {
@@ -45,7 +45,7 @@
         "Owner_Name": {
             "description": "Owner Name",
             "required": true,
-            "value": ""
+            "value": "𝐵𝐿𝛩𝛩𝐷 𝑇𝛨𝛪𝑅𝑆𝑇𝑌 𝐶𝑅𝛯𝛯𝛲𝛯𝑅"
         },
         "Prefix": {
             "description": "Prefix of your bot Ex: - , / , # , & etc. Put anythong except @",
