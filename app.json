@@ -1,5 +1,5 @@
 {
-  "name": "𝐵𝐿𝛩𝛩𝐷 𝑇𝛨𝛪𝑅𝑆𝑇𝑌 𝐶𝑅𝛯𝛯𝛲𝛯𝑅",
+  "name": "꧁༺𝙺𝚁𝙸𝚇𝚃𝙾𝙼༻꧂",
   "description": "Your WhatsApp assistant for smarter, automated interactions.",
   "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
   "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg&name=900x900",
@@ -25,7 +25,7 @@
        "Footer": { 
        "description": "Footer Name",
             "required": true,
-            "value": "© Queen Anya"
+            "value": "© King KRIXU"
        },
        "Insta": { 
        "description": "Instagram Id",
@@ -40,17 +40,17 @@
         "Owner_Number": {
             "description": "Owner Number",
             "required": true,
-            "value": ""
+            "value": "919365354223"
         },
         "Owner_Name": {
             "description": "Owner Name",
             "required": true,
-            "value": "𝐵𝐿𝛩𝛩𝐷 𝑇𝛨𝛪𝑅𝑆𝑇𝑌 𝐶𝑅𝛯𝛯𝛲𝛯𝑅"
+            "value": "KRIXTOM"
         },
         "Prefix": {
             "description": "Prefix of your bot Ex: - , / , # , & etc. Put anythong except @",
             "required": true,
-            "value": "-"
+            "value": "₹"
         },
        "ThemeEmoji": { 
        "description": "Theme Emoji",
@@ -60,7 +60,7 @@
        "SESSION_ID": {
             "description": "That you got after scan the external QR or Pair with external Pairing Code",
             "required": true,
-            "value": ""
+            "value": "WUFXc0h_Queen-Anya_SVUg="
         },
         "Warns_Limits": {
           "description": "Limit After Exceed to Remove User",
