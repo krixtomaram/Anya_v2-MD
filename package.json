@@ -1,5 +1,5 @@
 {
-  "name": "queen_anya",
+  "name": "𝐵𝐿𝛩𝛩𝐷 𝑇𝛨𝛪𝑅𝑆𝑇𝑌 𝐶𝑅𝛯𝛯𝛲𝛯𝑅",
   "version": "2.0.9#5 [BETA]",
   "description": "A modular whatsApp bot created by node.js",
   "main": "Anyaindex.js",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/PikaBotz/Anya_v2-MD/issues"
   },
-  "author": "Pika",
+  "author": "KRIXTOM",
   "license": "GPL-3.0",
   "dependencies": {
     "@queenanya/baileys": "latest",
